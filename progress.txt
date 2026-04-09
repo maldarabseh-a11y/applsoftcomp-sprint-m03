@@ -1,0 +1,17 @@
+# Order: reviews/foundations first, then specific experimental papers
+
+[x] batteries-10-00110.pdf — broad review: 3D printing for batteries, all techniques, cost/performance (Mottaghi & Pearce 2024)
+[x] batteries-09-00184.pdf — review: electrode fabrication techniques for Li-ion batteries (Singh et al. 2023)
+[x] Cheng2019.pdf — review: 3D printing techniques & electrode/electrolyte architectures (Cheng et al. 2019)
+[x] Egorov2020.pdf — review: evolution of 3D printing methods for electrochemical energy storage (Egorov et al. 2020)
+[x] 1-s2.0-S245191032030034X-main.pdf — overview: AM for electrochemical energy storage, printable materials (Gulzar et al. 2021)
+[x] 1-s2.0-S1748013217302426-main.pdf — review: 3D printed functional nanomaterials for EES (Zhu et al. 2017)
+[x] 1-s2.0-S2405829717304567-main.pdf — 3D printed BN separator for thermal management of Li metal anodes (Liu et al. 2018)
+[x] 1-s2.0-S0272884219309496-main.pdf — comparative: LFP cathodes by LTDW vs DIW vs roller coating (Liu et al. 2019)
+[x] 1-s2.0-S0013468618302445-main.pdf — 3D microbattery on 3D-printed polymer substrates (Cohen et al. 2018)
+[x] 1-s2.0-S2211285518309054-main.pdf — Li-S battery via robocasting, high sulfur loading (Gao et al. 2019)
+[x] 1-s2.0-S221486042031023X-main.pdf — LIB 3D printing via thermoplastic ME and powder bed fusion (Maurel et al. 2021)
+[x] 1-s2.0-S2405829721000921-main.pdf — 3D printing for rechargeable Li metal batteries (Zhou et al. 2021)
+[x] 1-s2.0-S1385894721053894-main.pdf — coaxial 3D printing all-in-one fibrous Li/Na/Zn batteries (Ji et al. 2022)
+[x] 1-s2.0-S0008622323000441-main.pdf — topology optimization + PμSL for supercapacitor electrodes (Reale Batista et al. 2023)
+[x] Pinilla2023.pdf — comparative AM techniques for Li-ion, LTO/CNT, wet vs dry (Pinilla et al. 2023)

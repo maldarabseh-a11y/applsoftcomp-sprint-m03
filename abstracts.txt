@@ -1,0 +1,157 @@
+1-s2.0-S0008622323000441-main.pdf: s 
+Mariana Desire´e Reale Batista a, Swetha Chandrasekaran a, Bryan D. Moran b, 
+Miguel Salazar de Troya c, Anica Pinongcos d, Zhen Wang e, Ryan Hensleigh e, Adam Carleton a, 
+Manhao Zeng a, Thomas Roy c, Dun Lin d, Xinzhe Xue d, Victor A. Beck c, Daniel A. Tortorelli c, 
+Michael Stadermann f, Rayne Zheng e, Yat Li d, Marcus A. Worsley a,* 
+a Materials Science Division, Lawrence Livermore National
+
+1-s2.0-S0013468618302445-main.pdf: f Chemistry, Tel Aviv University, Tel Aviv, 6997801, Israel
+b Department of Biomedical Engineering, University of Basel, Switzerland
+c Applied Materials Research Center, Tel Aviv University, Tel Aviv, 6997801, Israel
+a r t i c l e
+i n f o
+Article history:
+Received 11 November 2017
+Received in revised form
+24 January 2018
+Accepted 29 January 2018
+Available online 31 January 2018
+Keywords:
+Microbatt
+
+1-s2.0-S0272884219309496-main.pdf: by low temperature 3D printing, direct ink writing and
+conventional roller coating process
+Changyong Liua,∗, Feng Xua, Xingxing Chenga, Junda Tonga, Yanliang Liua, Zhangwei Chena,
+Changshi Laoa,∗∗, Jun Mab,∗∗∗
+a Additive Manufacturing Institute, College of Mechatronics and Control Engineering, Shenzhen University, 518060, China
+b College of Materials Science and Engineering, Shenzhen University, 5
+
+1-s2.0-S1385894721053894-main.pdf: m-, and 
+zinc-ion batteries 
+Dongfang Ji a, Huaiyang Zheng b, Hang Zhang b, Wenqing Liu b, Junwei Ding b,* 
+a College of Food and Bioengineering, Zhengzhou University of Light Industry, Zhengzhou 450002, China 
+b College of Materials and Chemical Engineering, Zhengzhou University of Light Industry, Zhengzhou 450002, China   
+A R T I C L E  I N F O   
+Keywords: 
+Coaxial 3D-printing 
+All-in-one fibr
+
+1-s2.0-S1748013217302426-main.pdf: rgy
+storage
+Cheng Zhu a, Tianyu Liu b, Fang Qian a, Wen Chen a, Swetha Chandrasekaran a, Bin Yao b,
+Yu Song b, Eric B. Duoss a, Joshua D. Kuntz a, Christopher M. Spadaccini a,
+Marcus A. Worsley a,∗, Yat Li b,∗
+a Lawrence Livermore National Laboratory, 7000 East Avenue, Livermore, CA 94550, United States
+b Department of Chemistry and Biochemistry, University of California, Santa Cruz, CA 95064, Uni
+
+1-s2.0-S2211285518309054-main.pdf: Yanga, Jianneng Lianga, Alicia Kooa, Weihan Lia,b,
+Jianwen Lianga, Jiwei Wanga,b, Ruying Lia, Frederick Benjamin Holnessa, Aaron David Pricea,
+Songlin Yangc, Tsun-Kong Shamb,⁎, Xueliang Suna,⁎
+a Department of Mechanical and Materials Engineering, University of Western Ontario, 1151 Richmond St, London, Ontario N6A 3K7, Canada
+b Department of Chemistry, University of Western Ontario, London, Ontar
+
+1-s2.0-S221486042031023X-main.pdf: c material 
+extrusion and polymer powder bed fusion 
+Alexis Maurel a,b,c,*, Matti Haukka d, Eric MacDonald e, Lauri Kivij¨arvi d, Elmeri Lahtinen d, 
+Hyeonseok Kim a,c, Michel Armand a, Aur´elie Cayla f,g, Arash Jamali h, Sylvie Grugeon a,c, 
+Loic Dupont a,c,h,*, St´ephane Panier b,** 
+a Laboratoire de R´eactivit´e et de Chimie des Solides, UMR CNRS 7314, Hub de l′´Energie, Universit´e de Picardie
+
+1-s2.0-S2405829717304567-main.pdf: ng Liua,b, Yun Qiaoa,b, Ying Zhanga, Zhi Yanga, Tingting Gaoa, Dylan Kirscha, Boyang Liua,
+Jianwei Songa, Bao Yanga, Liangbing Hua,⁎
+a Department of Materials Science and Engineering, University of Maryland, College Park, MD 20742, United States
+b School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China
+A R T I C L E I N F O
+Keywords:
+3D Printing
+Thermal
+
+1-s2.0-S2405829721000921-main.pdf: tal batteries 
+Shuang Zhou a , Ibrahim Usman a , b , Yijiang Wang a , Anqiang Pan a , ∗ 
+a State Key Laboratory of Powder Metallurgy, School of Materials Science & Engineering, Central South University, Changsha, 410083, Hunan, China 
+b Department of Metallurgical and Materials Engineering, Faculty of Engineering, Ahmadu Bello University, Zaria, Nigeria 
+a r t i c l e 
+i n f o 
+Keywords: 
+3D print
+
+1-s2.0-S245191032030034X-main.pdf: Additive manufacturing and 3D printing in particular have the potential to revolutionize existing fabrication processes, where objects with complex structures and shapes can be built with multifunctional material systems. For electro- chemical energy storage devices such as batteries and supercapacitors, 3D printing methods allows alternative form factors to be conceived based on the end use application need in mind at the design stage. Additively manufactured energy storage devices require active materials and com- posites that are printable, and this is influenced by perfor-
+
+Pinilla2023.pdf: ication Processes
+Sergio Pinilla,* Seán Ryan, Lorcan McKeon, Meiying Lian, Sebastien Vaesen, Ahin Roy, 
+Wolfgang Schmitt, Jonathan N. Coleman, and Valeria Nicolosi*
+DOI: 10.1002/aenm.202203747
+the energy storage field, including the 
+lithium-ion battery industry. With the 
+rising popularity of solid-state batteries, 
+many have seen additive manufacturing 
+as the future of the industry, due to the
+
+Egorov2020.pdf: ar, Yan Zhang, Siobhán Breen, and Colm O’Dwyer*
+Dr. V. Egorov, Dr. U. Gulzar, Dr. Y. Zhang, S. Breen, Prof. C. O’Dwyer
+School of Chemistry
+University College Cork
+Cork T12 YN60, Ireland
+E-mail: c.odwyer@ucc.ie
+Prof. C. O’Dywer
+Tyndall National Institute
+Lee Maltings, Cork T12 R5CP, Ireland
+Prof. C. O’Dwyer
+AMBER@CRANN
+Trinity College Dublin
+Dublin 2, Ireland
+Prof. C. O’Dwyer
+Environmental Research
+
+Cheng2019.pdf: Storage Devices:
+A Review of Printing Techniques and Electrode/Electrolyte
+Architectures
+Meng Cheng,[a] Ramasubramonian Deivanayagam,[a] and Reza Shahbazian-Yassar*[a]
+Reviews
+DOI: 10.1002/batt.201900130
+130
+Batteries & Supercaps 2020, 3, 130–146
+© 2019 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+3
+
+batteries-09-00184.pdf: Abstract: Development of reliable energy storage technologies is the key for the consistent energy supply based on alternate energy sources. Among energy storage systems, the electrochemical storage devices are the most robust. Consistent energy storage systems such as lithium ion (Li ion) based energy storage has become an ultimate system utilized for both domestic and industrial scales due to its advantages over the other energy storage systems. Considering the factors related to Li ion-based energy storage system, in the present review, we discuss various electrode fabrication techniques including electrodeposition, chemical vapor deposition (CVD), stereolithography, pressing, roll to roll, dip coating, doctor blade, drop casting, nanorod growing, brush coating, stamping, inkjet printing (IJP), fused deposition modelling (FDM) and direct ink writing (DIW). Additionally, we analyze the statistics of publications on these fabrication techniques and outline challenges and future prospects
+
+batteries-10-00110.pdf: Abstract: To stabilize the Earth’s climate, large-scale transition is needed to non-carbon-emitting renewable energy technologies like wind and solar energy. Although these renewable energy sources are now lower-cost than fossil fuels, their inherent intermittency makes them unable to supply a constant load without storage. To address these challenges, rechargeable electric batteries are currently the most promising option; however, their high capital costs limit current deployment velocities. To both reduce the cost as well as improve performance, 3D printing technology has emerged as a promising solution. This literature review provides state-of-the-art enhancements of battery properties with 3D printing, including efficiency, mechanical stability, energy and power density, customizability and sizing, production process efficiency, material conservation, and environmental sustainability as well as the progress in solid-state batteries. The principles, advantages, limitations,
+

@@ -1,0 +1,58 @@
+## Cross-paper insights and evolving themes
+
+**After batteries-10-00110 (Mottaghi & Pearce 2024):**
+Starting with the broadest review. DIW, FFF, IJP, SLA — clear that DIW dominates the literature for battery work. The performance table shows DIW achieving the most impressive numbers. FFF has unique appeal for solid-state batteries where high temps aren't a problem. One thing I notice: every review lists the same four techniques but with different emphasis. This field seems to converge around DIW as the workhorse. Worth watching whether later experimental papers confirm this.
+
+**After batteries-09-00184 (Singh et al. 2023):**
+Useful contrast — this review includes conventional methods (doctor blade, CVD, roll-to-roll) alongside printing. Key insight: printing is still a small fraction of total electrode fabrication research by publication count, despite growing fast. The statistics (2003–2022 trend data) show IJP growing faster than FDM in absolute numbers but DIW growing fastest. Conventional methods aren't going away — they excel at scale. 3D printing is a complement, not a replacement, at least for now.
+
+**After Cheng et al. 2019:**
+Architecture-first framing is clarifying. Interdigitated structures gave 10–30× energy density improvement over planar — that's striking. The fiber category (wearables) is distinct and important — not about energy/power density but mechanical flexibility. This taxonomy (interdigitated vs. scaffold vs. fiber) is a better organizing principle than "which printing method" because it separates the design goal from the fabrication choice.
+
+**After Egorov et al. 2020:**
+The co-design principle is important and somewhat under-appreciated in other reviews. Most papers pick existing battery materials and try to make them printable; Egorov argues the materials themselves must be redesigned for the printing process. Supercapacitors gravitating toward inkjet makes sense — they're more solvent-tolerant. Li-ion batteries are pickier about solvents, which limits inkjet applicability. Also first paper to explicitly discuss resolution requirements and how they vary by application (IoT vs. EV-scale).
+
+**After Gulzar et al. 2021:**
+Short but dense. The ASTM 7-category breakdown is useful for identifying which AM methods are fundamentally incompatible with EES requirements (powder bed fusion needs dry powder → hard to achieve electrochemical interfaces; binder jetting adds inactive mass). This narrows the viable field to essentially DIW, inkjet, and SLA/DLP for battery applications. Confirms and sharpens the Egorov insight.
+
+**After Zhu et al. 2017:**
+This is the foundational review — 2017 was early. The four-family taxonomy (laser, lithography, electrodeposition, extrusion) for nanomaterial electrodes is still the most useful technical classification. LLNL's graphene aerogel DIW work is referenced throughout the later literature. Key gap identified in 2017: "few attempts to design and build optimized micro-devices with engineered mesoscale and macroscale porous architectures" — this gap is directly addressed by Reale Batista 2023 with topology optimization. Nice arc across 6 years.
+
+**After Liu et al. 2018 (BN separator, Hu group):**
+Surprise: using 3D printing for the separator rather than the electrode. Most of the literature focuses on electrodes. The thermal management angle is genuinely novel — hot spots in Li metal anodes are a known problem but rarely addressed through separator design. The BN thermal conductivity (electrically insulating, thermally conducting) is a clever material choice. Curious whether this strategy has been adopted more widely. Does the field systematically address separator printing?
+
+**After Liu et al. 2019 (LTDW vs DIW vs roller coating, Shenzhen):**
+Most important finding here: 3D printing (LTDW) only wins at high solid content. At low solid content, conventional roller coating is better. This is a critical nuance that positive-spin reviews miss. The LTDW process (freeze solidification) is a real innovation — removes the need for viscosifiers — but creates its own complexity (requires a cold chamber, freeze-dryer). Trade-off is real. This paper alone should temper the optimism in the review papers.
+
+**After Cohen et al. 2018 (3D microbattery, Tel Aviv):**
+Interesting hybrid approach: print the substrate (geometry) but not the active materials (deposited separately by EPD). This decoupling is pragmatic — EPD gives conformal thin-film coverage that direct printing can't match at micron scales. For IoT/implantable scale, this may be the right approach. Contradiction with the "print everything" vision of Maurel 2021 — suggests the appropriate level of printing integration depends heavily on scale requirements.
+
+**After Gao et al. 2019 (Li-S, Sun group, Western Ontario):**
+Clear demonstration of the "layer stacking = thickness control" advantage for high-loading electrodes. For Li-S, this directly addresses sulfur loading — a fundamental problem. 87% retention after 200 cycles at 1C with 5.5 mg/cm² is genuinely competitive with non-printed cells. Important: the carbon black (BP-2000) is low-cost, which matters for practical deployment. Most 3D printed battery papers use expensive or exotic materials. This one is deliberately pragmatic.
+
+**After Maurel et al. 2021 (FFF/PBF for LIBs, Picardie):**
+Most honest paper in the set. FFF and PBF both work but underperform DIW. High polymer content in composite filaments reduces conductivity. Liquid electrolyte must be infused post-printing — so it's not truly an "all-in-one" print. The modeling section is valuable: 3D architectures theoretically outperform 2D at high current densities, but experimentally this hasn't been fully realized yet due to material limitations. Gap between simulation and experiment is a recurring theme across this field.
+
+**After Zhou et al. 2021 (3D printing for Li metal batteries, Central South):**
+Li metal battery focus is distinct — different failure modes (dendrite, infinite volume change) than Li-ion. 3D carbon frameworks as Li hosts suppress dendrites by distributing local current density. This mechanistic explanation (local current density → nucleation control) is the most physically grounded explanation for why 3D architecture helps in battery contexts. Connects back to Cheng 2019's architectural framing with a clear mechanism.
+
+**After Ji et al. 2022 (coaxial all-in-one fiber, Zhengzhou):**
+The coaxial printing approach is genuinely clever for fibers — analogous to multi-nozzle systems but in radial geometry. Cross-chemistry universality (Li, Na, Zn) in one platform is impressive. SIBs achieving 2000 cycles is notable given that SIBs generally have poorer cycle stability than LIBs. Kg-scale ink scalability is rare to see mentioned. Potential contradiction with Cohen 2018 (hybrid substrate approach) — coaxial printing proves all-in-one printing is feasible at fiber scale; Cohen shows it's still not feasible at the micron-channel scale.
+
+**After Reale Batista et al. 2023 (topology optimization + PμSL, LLNL):**
+99% capacitance improvement from morphology alone is the headline result. The key intellectual contribution is closing the design loop: computational optimization → printable geometry → functional device. PμSL at 0.6 µm resolution enables complexity that DIW can't reach (tool-path limited). The GO/TMPTA resin development shows material chemistry can't be ignored even in a geometry-focused paper — the two are coupled (Egorov's co-design principle confirmed). Supercapacitor focus, not battery — worth noting as a gap for topology-optimized battery electrodes.
+
+**After Pinilla et al. 2023 (comparative study, Trinity College Dublin):**
+Most analytically rigorous. The wet/dry classification is the key contribution: it explains why AJP and spray underperform despite being higher-resolution techniques. The counterintuitive finding — higher resolution printing (AJP) gives worse performance than lower resolution extrusion — is important. The semi-empirical model is a practical diagnostic tool. Connects Zhu 2017 (nanomaterial architecture matters) and Reale Batista 2023 (topology matters) with a physical mechanism: what destroys the beneficial nanoarchitecture is the drying kinetics of the deposition process.
+
+---
+
+## Emerging contradictions and tensions
+
+1. **Optimism vs. realism:** Reviews (Mottaghi, Cheng, Egorov) are broadly optimistic. Experimental comparative papers (Liu/LTDW, Maurel, Pinilla) reveal significant caveats — 3D printing only wins under specific conditions.
+
+2. **Architecture vs. material vs. process:** Cheng frames it as architecture; Egorov frames it as material-method co-design; Pinilla frames it as process (drying kinetics). These are not contradictory but represent different abstraction levels of the same phenomenon.
+
+3. **Scale decoupling:** Cohen (micro scale) uses hybrid printing+EPD; Ji (fiber scale) uses all-in-one coaxial DIW; Reale Batista (mesoscale) uses PμSL. The right approach depends on scale — no single method wins across all scales.
+
+4. **Simulation-experiment gap:** Maurel's modeling shows 3D architectures should outperform 2D at high currents, but experimentally the material limitations prevent realizing this. Gap is not resolved in the literature.
