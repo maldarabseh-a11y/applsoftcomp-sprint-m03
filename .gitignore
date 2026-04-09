@@ -37,6 +37,8 @@ workflow/config.yaml
 # Others
 .DS_Store
 *.un~
+.env
+.venv/
 
 ###################### Standard Python gitignore
 
